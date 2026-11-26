@@ -1,0 +1,7 @@
+
+.env
+microfinance/.env
+**/__pycache__/
+**/staticfiles/
+**/private_media/
+**/backups/
